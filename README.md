@@ -1,3 +1,4 @@
+Java Midterm Project
 "Band Management System with Weight Distribution Logic"
 
 Key Technical Implementations:
