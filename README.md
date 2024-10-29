@@ -1,4 +1,5 @@
-Java Midterm Project
+Java Midterm Project 2024
+
 "Band Management System with Weight Distribution Logic"
 
 Key Technical Implementations:
